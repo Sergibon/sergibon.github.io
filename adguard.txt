@@ -1,0 +1,22 @@
+yulsun.ru###lastNews
+yulsun.ru###main-menu-container
+yulsun.ru###callback__root
+yulsun.ru###chat-button
+yulsun.ru###notice
+yulsun.ru###catalogue__grid
+yulsun.ru###catalogue__main
+yulsun.ru###reviews10last
+yulsun.ru###chat
+yulsun.ru##footer
+yulsun.ru##main:nth-child(4) > section.main:last-child > div.wrap.clearfix
+yulsun.ru##div.footer-app:nth-child(7)
+yulsun.ru##main:nth-child(4) > nav.breadcrumbs.clearfix:first-child
+yulsun.ru##header:nth-child(3) > div.header-contacts.line:nth-child(2)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > table:nth-child(4)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > table:nth-child(5)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > table:nth-child(3) > tbody > tr > td.leftnav:first-child > table.pline:nth-child(9)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > table:nth-child(3) > tbody > tr > td.leftnav:first-child > table.pline:nth-child(13)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > table:nth-child(3) > tbody > tr > td.leftnav:first-child > table.pline:nth-child(7)
+nnmclub.to##div.wrap:nth-child(2) > table.tg > tbody > tr:last-child > td > table:first-child > tbody > tr > td > center:nth-child(2)
+drive2.ru##.l-alt
+drive2.ru##.l-top
