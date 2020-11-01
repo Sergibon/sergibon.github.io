@@ -1,0 +1,16 @@
+yulsun.ru###catalogue__grid
+yulsun.ru###catalogue__main
+yulsun.ru###lastNews
+yulsun.ru###main-menu-container
+yulsun.ru###callback__root
+yulsun.ru###chat-button
+yulsun.ru###notice
+yulsun.ru###reviews10last
+yulsun.ru###chat
+yulsun.ru##footer
+yulsun.ru##div.footer-app:nth-child(7)
+yulsun.ru##main:nth-child(4) > section.main:last-child > div.wrap.clearfix
+yulsun.ru##main:nth-child(4) > nav.breadcrumbs.clearfix:first-child
+yulsun.ru##header:nth-child(3) > div.header-contacts.line:nth-child(2)
+drive2.ru##.l-alt
+drive2.ru##.l-top
