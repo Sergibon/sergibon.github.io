@@ -16,3 +16,5 @@ drive2.ru##.l-alt
 drive2.ru##.l-top
 4pda.ru###fo_-1
 yandex.ru###wd-_topnews-1
+aliexpress.ru##.site-footer
+aliexpress.ru##.top-banner-container
