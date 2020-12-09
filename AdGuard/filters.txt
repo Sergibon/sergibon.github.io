@@ -18,3 +18,11 @@ drive2.ru##.l-top
 yandex.ru###wd-_topnews-1
 aliexpress.ru##.site-footer
 aliexpress.ru##.top-banner-container
+myslo.ru##.content-afisha-top-5
+myslo.ru###news_upload_content
+myslo.ru##.banner285x200, .display-screen-big
+myslo.ru##.pressaBig
+myslo.ru##.lenta-blog-slider
+myslo.ru##.list-on-bg-main, .tiny-hide
+myslo.ru##.block_in_main_page
+myslo.ru##.footer
