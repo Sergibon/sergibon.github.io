@@ -19,3 +19,5 @@ yandex.ru###wd-_topnews-1
 aliexpress.ru##.site-footer
 aliexpress.ru##.top-banner-container
 myslo.ru##.footer
+myslo.ru#
+yandex.ru/news/#
