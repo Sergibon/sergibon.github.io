@@ -24,3 +24,4 @@ myslo.ru##.afisha-main-menu
 myslo.ru##.list-on-main
 myslo.ru###news_upload_content
 myslo.ru###city_upload_content
+myslo.ru##.listitems
