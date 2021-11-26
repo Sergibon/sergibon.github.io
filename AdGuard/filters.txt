@@ -18,10 +18,7 @@ drive2.ru##.l-top
 yandex.ru###wd-_topnews-1
 aliexpress.ru##.site-footer
 aliexpress.ru##.top-banner-container
+myslo.ru##.additionalcolumn
 myslo.ru##.footer
-myslo.ru##.padding-2
-myslo.ru##.afisha-main-menu
-myslo.ru##.list-on-main
-myslo.ru###news_upload_content
-myslo.ru###city_upload_content
-myslo.ru##.listitems
+myslo.ru##.myslo-banner-brend
+myslo.ru##.content-afisha-top-5
