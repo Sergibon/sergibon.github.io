@@ -14,6 +14,8 @@ yulsun.ru##main:nth-child(4) > nav.breadcrumbs.clearfix:first-child
 yulsun.ru##header:nth-child(3) > div.header-contacts.line:nth-child(2)
 drive2.ru##.l-alt
 drive2.ru##.l-top
+drive2.ru##.u-mobile-noselect
+drive2.ru##.c-nav-shaft
 4pda.ru###fo_-1
 yandex.ru###wd-_topnews-1
 aliexpress.ru##.site-footer
