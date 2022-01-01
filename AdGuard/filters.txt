@@ -25,3 +25,9 @@ myslo.ru##.additionalcolumn
 myslo.ru##.footer
 myslo.ru##.myslo-banner-brend
 myslo.ru##.content-afisha-top-5
+yandex.ru##.feed
+yandex.ru##.media-grid
+||example.org^$empty
+drive2.ru##.l-top
+drive2.ru##.c-nav
+yandex.ru##.root123
