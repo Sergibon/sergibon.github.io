@@ -1,33 +1,28 @@
-yulsun.ru###catalogue__grid
-yulsun.ru###catalogue__main
-yulsun.ru###lastNews
-yulsun.ru###main-menu-container
+yulsun.ru##footer
+yulsun.ru##.footer-app
 yulsun.ru###callback__root
 yulsun.ru###chat-button
-yulsun.ru###notice
+yulsun.ru##.breadcrumbs
 yulsun.ru###reviews10last
-yulsun.ru###chat
-yulsun.ru##footer
-yulsun.ru##div.footer-app:nth-child(7)
-yulsun.ru##main:nth-child(4) > section.main:last-child > div.wrap.clearfix
-yulsun.ru##main:nth-child(4) > nav.breadcrumbs.clearfix:first-child
-yulsun.ru##header:nth-child(3) > div.header-contacts.line:nth-child(2)
+
 drive2.ru##.l-alt
 drive2.ru##.l-top
+drive2.ru##.c-nav
 drive2.ru##.u-mobile-noselect
 drive2.ru##.c-nav-shaft
 drive2.ru##.l-page-side
+
 4pda.ru###fo_-1
-yandex.ru###wd-_topnews-1
+
 aliexpress.ru##.site-footer
 aliexpress.ru##.top-banner-container
+
 myslo.ru##.additionalcolumn
 myslo.ru##.footer
 myslo.ru##.myslo-banner-brend
 myslo.ru##.content-afisha-top-5
+
 yandex.ru##.feed
+yandex.ru###wd-_topnews-1
 yandex.ru##.media-grid
-||example.org^$empty
-drive2.ru##.l-top
-drive2.ru##.c-nav
 yandex.ru##.root123
