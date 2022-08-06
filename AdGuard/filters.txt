@@ -1,3 +1,5 @@
+! Version: 0.2
+
 yulsun.ru##footer
 yulsun.ru##.footer-app
 yulsun.ru###callback__root
