@@ -4,6 +4,8 @@ yulsun.ru###callback__root
 yulsun.ru###chat-button
 yulsun.ru##.breadcrumbs
 yulsun.ru###reviews10last
+yulsun.ru##.message
+yulsun.ru##.reviews-mentioning
 
 drive2.ru##.l-alt
 drive2.ru##.l-top
