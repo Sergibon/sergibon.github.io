@@ -1,4 +1,4 @@
-! Version: 7.4
+! Version: 7.5
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -21,6 +21,8 @@ yulsun.ru##.reviews-mentioning
 drive2.ru##.l-top
 drive2.ru##.l-nav
 drive2.ru##.l-page-side
+drive2.ru##.c-block u-mobile-noselect
+drive2.ru##.c-block c-block--mh
 
 4pda.ru###fo_-1
 
