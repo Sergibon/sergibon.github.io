@@ -1,4 +1,4 @@
-! Version: 7.0
+! Version: 7.4
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
