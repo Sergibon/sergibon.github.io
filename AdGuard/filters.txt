@@ -1,9 +1,12 @@
-! Version: 0.3
+! Version: 7.0
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
 yulsun.ru###callback__root
+yulsun.ru###modal-window__callback
+yulsun.ru###chat
 yulsun.ru###chat-button
+yulsun.ru###modal-window__chat
 yulsun.ru##.breadcrumbs
 yulsun.ru###reviews10last
 yulsun.ru##.message
