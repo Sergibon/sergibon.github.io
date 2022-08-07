@@ -1,4 +1,4 @@
-! Version: 0.2
+! Version: 0.3
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -31,3 +31,11 @@ yandex.ru##.feed
 yandex.ru###wd-_topnews-1
 yandex.ru##.media-grid
 yandex.ru##.root123
+
+drom.ru##div[data-ftid="component_premium-carousel"]
+drom.ru##div[data-ftid="home-auto-block"]
+drom.ru##div[data-ftid="autostory-widget"]
+drom.ru##div[data-ftid="index_forum-widget"]
+drom.ru##div[data-ftid="index_blogs"]
+drom.ru###vote
+
