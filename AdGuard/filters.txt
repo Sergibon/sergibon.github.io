@@ -1,4 +1,4 @@
-! Version: 7.5.3
+! Version: 7.5.4
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -32,6 +32,7 @@ myslo.ru##.additionalcolumn
 myslo.ru##.footer
 myslo.ru##.myslo-banner-brend
 myslo.ru##.content-afisha-top-5
+myslo.ru###grf_myslo_2
 
 yandex.ru##.feed
 yandex.ru###wd-_topnews-1
