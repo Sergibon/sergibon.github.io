@@ -1,4 +1,4 @@
-! Version: 7.5.4
+! Version: 7.7.0
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -45,4 +45,22 @@ drom.ru##div[data-ftid="autostory-widget"]
 drom.ru##div[data-ftid="index_forum-widget"]
 drom.ru##div[data-ftid="index_blogs"]
 drom.ru###vote
+
+onex.am###indexbody
+onex.am###wrapper > div.app-row
+onex.am###wrapper > div.container.container-slider
+am.globbing.com###buy-online-section
+am.globbing.com###statistic-section
+am.globbing.com###shipping-methods-section
+am.globbing.com###how-to-use-section
+am.globbing.com###best-shops-section
+am.globbing.com###why-globbing-section
+am.globbing.com###our-team-section
+am.globbing.com##.slider-box
+am.globbing.com##.slider-nav-items
+am.globbing.com##slider--web.slider.pr
+am.globbing.com##footer
+onex.am##.copyright
+onex.am##.col-md-3
+
 
