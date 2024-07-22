@@ -1,4 +1,4 @@
-! Version: 8.2
+! Version: 8.3
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -62,3 +62,24 @@ am.globbing.com##footer
 onex.am##.copyright
 onex.am##.col-md-3
 
+aliexpress.*##div[class*="share-and-wish"]
+aliexpress.*##div[class*="recommend-topselling"]
+aliexpress.*##div[class*="cross-link"]
+aliexpress.*##div[class*="down-load-app"]
+aliexpress.*##div[class*="site-footer"]
+aliexpress.*##div[class*="footer-copywrite"]
+aliexpress.*##div[class*="suggestion"]
+aliexpress.*##div[class*="new-home"]
+aliexpress.*##div[class*="benefit-img"]
+aliexpress.*##div[class*="back-top"]
+aliexpress.*##div[class*="help-center"]
+aliexpress.*##.benefit-img
+aliexpress.*##.nfm-sns
+aliexpress.*##.new-benefit-agreement
+aliexpress.*##.nfm-choose-location-text
+aliexpress.*##.cart-icons
+aliexpress.*###J_xiaomi_dialog
+aliexpress.*##.safe-info-hook
+aliexpress.*##.survey-link
+aliexpress.*##.service-commitment
+aliexpress.*##.cart-recommend
