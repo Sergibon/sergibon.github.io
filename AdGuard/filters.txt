@@ -1,4 +1,4 @@
-! Version: 7.8
+! Version: 7.8.1
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -64,9 +64,10 @@ onex.am##.copyright
 onex.am##.col-md-3
 
 aliexpress.*###J_xiaomi_dialog
-aliexpress.*##.site-footer
-aliexpress.*##.footer-copywrite
 aliexpress.*##.faas-container
+aliexpress.*##.site-footer
 aliexpress.*##.footer-wrap
+aliexpress.*##.footer-copywrite
 aliexpress.*##.account-recommend
 aliexpress.*##.order-recommend
+aliexpress.*##.cart-recommend
