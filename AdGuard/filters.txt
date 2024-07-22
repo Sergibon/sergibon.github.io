@@ -25,8 +25,7 @@ drive2.ru##.c-block c-block--mh
 
 4pda.ru###fo_-1
 
-aliexpress.ru##.site-footer
-aliexpress.ru##.top-banner-container
+
 
 myslo.ru##.additionalcolumn
 myslo.ru##.footer
@@ -63,6 +62,7 @@ am.globbing.com##footer
 onex.am##.copyright
 onex.am##.col-md-3
 
+aliexpress.*##.top-banner-container
 aliexpress.*###J_xiaomi_dialog
 aliexpress.*##.faas-container
 aliexpress.*##.site-footer
