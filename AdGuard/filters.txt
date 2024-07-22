@@ -1,4 +1,4 @@
-! Version: 8.0
+! Version: 8.1
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -67,5 +67,11 @@ aliexpress.*##div[class*="recommend"]
 aliexpress.*##div[class*="suggestion"]
 aliexpress.*##div[class*="footer"]
 aliexpress.*##div[class*="new-home"]
+aliexpress.*##div[class*="benefit-img"]
+aliexpress.*##div[class*="back-top"]
+aliexpress.*##.benefit-img
+aliexpress.*##.nfm-sns
+aliexpress.*##.new-benefit-agreement
+aliexpress.*##.nfm-choose-location-text
 aliexpress.*##.cart-icons
 aliexpress.*###J_xiaomi_dialog
