@@ -1,4 +1,4 @@
-! Version: 7.8.2
+! Version: 8.0
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -62,8 +62,10 @@ am.globbing.com##footer
 onex.am##.copyright
 onex.am##.col-md-3
 
-
-aliexpress.*##div[class*="*share-and-wish"]
-aliexpress.*##div[class*="*-recommend*]
-aliexpress.*##div[class*="*-suggestion*]
-aliexpress.*##div[class*="*-footer*]
+aliexpress.*##div[class*="share-and-wish"]
+aliexpress.*##div[class*="recommend"]
+aliexpress.*##div[class*="suggestion"]
+aliexpress.*##div[class*="footer"]
+aliexpress.*##div[class*="new-home"]
+aliexpress.*##.cart-icons
+aliexpress.*###J_xiaomi_dialog
