@@ -63,4 +63,10 @@ am.globbing.com##footer
 onex.am##.copyright
 onex.am##.col-md-3
 
-
+aliexpress.*###J_xiaomi_dialog
+aliexpress.*##.site-footer
+aliexpress.*##.footer-copywrite
+aliexpress.*##.faas-container
+aliexpress.*##.footer-wrap
+aliexpress.*##.account-recommend
+aliexpress.*##.order-recommend
