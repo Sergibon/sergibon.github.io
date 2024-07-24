@@ -83,3 +83,8 @@ aliexpress.*##.safe-info-hook
 aliexpress.*##.survey-link
 aliexpress.*##.service-commitment
 aliexpress.*##.cart-recommend
+
+duckduckgo.com###features
+duckduckgo.com##div[class*="homepage-cta-section"]
+duckduckgo.com##div[class*="footer"]
+duckduckgo.com##.js-feedback-btn-wrap
