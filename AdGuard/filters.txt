@@ -1,4 +1,4 @@
-! Version: 9.1
+! Version: 9.2
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -22,7 +22,12 @@ drive2.ru##.l-nav
 drive2.ru##.l-page-side
 drive2.ru##.c-block u-mobile-noselect
 drive2.ru##.c-block c-block--mh
-
+drive2.ru##div[class*=""]
+drive2.ru##div[class*="o-columns"]
+drive2.ru##div[class*="footer"]
+drive2.ru##div[id*="comments"]
+drive2.ru###comments
+drive2.ru/##main div:nth-of-type(n+4)
 4pda.ru###fo_-1
 
 
