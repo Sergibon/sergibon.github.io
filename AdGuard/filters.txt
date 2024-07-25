@@ -93,3 +93,7 @@ duckduckgo.com###features
 duckduckgo.com##div[class*="homepage-cta-section"]
 duckduckgo.com##div[class*="footer"]
 duckduckgo.com##.js-feedback-btn-wrap
+
+amazon.com###sc-important-message-alert
+amazon.com##.copilot-secure-display
+amazon.com###navFooter
