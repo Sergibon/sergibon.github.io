@@ -1,4 +1,4 @@
-! Version: 9.4
+! Version: 10.0
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -31,6 +31,10 @@ drive2.ru##div[class*="footer"]
 drive2.ru##div[id*="comments"]
 drive2.ru###comments
 drive2.ru/##main div:nth-of-type(n+4)
+drive2.ru##div[data-track]
+drive2.ru##div[data-target]
+
+
 4pda.ru###fo_-1
 
 
