@@ -1,4 +1,4 @@
-! Version: 10.0
+! Version: 10.1
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -111,4 +111,7 @@ amazon.*###nav-gwbar
 amazon.*###gwm-Deck
 amazon.*###navFooter
 amazon.*###nav-ftr
+amazon.com###squished-desktop-row
+amazon.com###desktop-banner
+amazon.com##div[id*="desktop"]
 
