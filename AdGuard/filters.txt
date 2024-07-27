@@ -1,4 +1,4 @@
-! Version: 9.3
+! Version: 9.4
 
 yulsun.ru##footer
 yulsun.ru##.footer-app
@@ -12,6 +12,9 @@ yulsun.ru###reviews10last
 yulsun.ru##.message
 yulsun.ru##.reviews-mentioning
 
+drive2.*##.l-top
+drive2.*##div[data-target="drom_main_view"]
+drive2.*##footer
 drive2.ru##.l-alt
 drive2.ru##.l-top
 drive2.ru##.c-nav
@@ -97,3 +100,11 @@ duckduckgo.com##.js-feedback-btn-wrap
 amazon.com###sc-important-message-alert
 amazon.com##.copilot-secure-display
 amazon.com###navFooter
+amazon.*###sc-continue-shopping
+amazon.*###smart-wagon-recommendations
+amazon.*###unread-safety-warning-banner
+amazon.*###nav-gwbar
+amazon.*###gwm-Deck
+amazon.*###navFooter
+amazon.*###nav-ftr
+
