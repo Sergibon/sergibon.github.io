@@ -114,4 +114,9 @@ amazon.*###nav-ftr
 amazon.com###squished-desktop-row
 amazon.com###desktop-banner
 amazon.com##div[id*="desktop"]
-
+amazon.com###bia-hcb-widget
+amazon.com###sc-new-upsell
+amazon.com###nav-main
+amazon.com##div[id="navFooter"]
+amazon.com###rhf
+amazon.com###desktop-banner
