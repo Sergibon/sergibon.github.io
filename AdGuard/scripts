@@ -1,1 +1,24 @@
-
+// ==UserScript==
+// @name         [SU] Scripts
+// @namespace    https://www.returnyoutubedislike.com/
+// @homepage     https://www.returnyoutubedislike.com/
+// @version      3.1.5
+// @encoding     utf-8
+// @description  Return of the YouTube Dislike, Based off https://www.returnyoutubedislike.com/
+// @icon         https://github.com/Anarios/return-youtube-dislike/raw/main/Icons/Return%20Youtube%20Dislike%20-%20Transparent.png
+// @author       Anarios & JRWR
+// @match        *://*.youtube.com/*
+// @exclude      *://music.youtube.com/*
+// @exclude      *://*.music.youtube.com/*
+// @compatible   chrome
+// @compatible   firefox
+// @compatible   opera
+// @compatible   safari
+// @compatible   edge
+// @downloadURL  https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js
+// @updateURL    https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js
+// @grant        GM.xmlHttpRequest
+// @connect      youtube.com
+// @grant        GM_addStyle
+// @run-at       document-end
+// ==/UserScript==
