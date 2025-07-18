@@ -124,3 +124,11 @@ amazon.com###nav-main
 amazon.com##div[id="navFooter"]
 amazon.com###rhf
 amazon.com###desktop-banner
+
+ozon.ru##div[data-widget*="navigationSlider"]
+ozon.ru##div[data-widget*="advBanner"]
+ozon.ru##div[class*="vue-portal-target"]
+ozon.ru##footer[data-widget*="footer"]
+ozon.ru##div[data-widget*="rateBoughtItems"]
+ozon.ru###layoutPage > div[data-widget="blockVertical"] > div[data-widget="wallpaper"] > div[data-replace-layout-path="[0][0]"] > header[data-widget="header"] > div:not(#stickyHeader)
+
