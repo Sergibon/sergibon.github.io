@@ -30,8 +30,8 @@ drive2.ru##div[class*=""]
 drive2.ru##div[class*="o-columns"]
 drive2.ru##div[class*="footer"]
 drive2.ru##div[id*="comments"]
-drive2.ru###comments
-drive2.ru/##main div:nth-of-type(n+4)
+! drive2.ru###comments
+! drive2.ru/##main div:nth-of-type(n+4)
 drive2.ru##div[data-track]
 drive2.ru##div[data-target]
 drive2.ru##div[data-role*="boosts-grid"]
