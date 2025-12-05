@@ -1,4 +1,4 @@
-! Version: 1.1.3
+! Version: 1.1.4
 ! Title: [SU] Tested
 
 yulsun.ru##footer
@@ -29,7 +29,7 @@ drive2.ru##.c-block c-block--mh
 drive2.ru##div[class*=""]
 drive2.ru##div[class*="o-columns"]
 drive2.ru##div[class*="footer"]
-drive2.ru##div[id*="comments"]
+! drive2.ru##div[id*="comments"]
 ! drive2.ru###comments
 ! drive2.ru/##main div:nth-of-type(n+4)
 drive2.ru##div[data-track]
