@@ -1,4 +1,4 @@
-! Version: 1.0
+! Version: 1.0.1
 ! Title: [SU] Tested
 
 yulsun.ru##footer
@@ -38,6 +38,11 @@ drive2.ru##div[data-target]
 drive2.ru##.c-boosts
 drive2.ru##div[data-feed-item]
 drive2.ru##div[data-target*="drom_main_view"]
+drive2.ru##div[data-role*="boosts-grid"]
+drive2.ru##div[data-ym-view]
+drive2.ru##div[data-feed-item]
+drive2.ru##footer
+drive2.ru##div[class*="rossko-teaser"]
 
 4pda.ru###fo_-1
 
