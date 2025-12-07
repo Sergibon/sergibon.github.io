@@ -1,4 +1,4 @@
-! Version: 1.1.4
+! Version: 1.1.5
 ! Title: [SU] Tested
 
 yulsun.ru##footer
@@ -136,4 +136,4 @@ ozon.ru##div[data-widget*="rateBoughtItems"]
 ozon.ru###layoutPage > div[data-widget="blockVertical"] > div[data-widget="wallpaper"] > div[data-replace-layout-path="[0][0]"] > header[data-widget="header"] > div:not(#stickyHeader)
 ozon.ru##div[data-widget="island"]
 ozon.ru##div[data-widget="seasonWidget"]
-
+ozon.ru##div[class*="vue-portal-target"]
