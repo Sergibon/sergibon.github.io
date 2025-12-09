@@ -1,5 +1,6 @@
-! Version: 0.1
+! Version: 0.2
 ! Title: [SU] Verified
 ##footer
 ###countryRedirectMessage
 ###welkomeVideoMsg
+ozon.ru##div[class*="vue-portal-target"]
