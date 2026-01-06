@@ -1,4 +1,16 @@
+# MAX Messenger
+DOMAIN-SUFFIX,oneme.ru
+
+# Yandex Services
 DOMAIN,ya.ru
 DOMAIN,ya.net
 DOMAIN,yandex.net
 DOMAIN,yandex.ru
+DOMAIN-SUFFIX,plus.yandex.net
+DOMAIN-SUFFIX,music.yandex.net
+DOMAIN-SUFFIX,passport.yandex.net
+DOMAIN-SUFFIX,tanker.yandex.net
+DOMAIN-SUFFIX,tanker.s3.yandex.net
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,maps.yandex.net
+DOMAIN-SUFFIX,maps.yango.com
