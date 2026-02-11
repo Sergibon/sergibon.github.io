@@ -1,12 +1,12 @@
 # Avito
-DOMAIN, avito.ru
+DOMAIN,        avito.ru
 DOMAIN-SUFFIX, m.avito.ru
 DOMAIN-SUFFIX, cs.avito.ru
 DOMAIN-SUFFIX, st.avito.ru
 DOMAIN-SUFFIX, api.avito.ru
 DOMAIN-SUFFIX, sntr.avito.ru
 # DOMAIN-SUFFIX, stats.avito.ru
-DOMAIN, avito.st
+DOMAIN,        avito.st
 DOMAIN-SUFFIX, 00.img.avito.st
 DOMAIN-SUFFIX, 01.img.avito.st
 DOMAIN-SUFFIX, 02.img.avito.st
@@ -109,7 +109,7 @@ DOMAIN-SUFFIX, 98.img.avito.st
 DOMAIN-SUFFIX, 99.img.avito.st
 
 # 2GIS
-DOMAIN, 2gis.ru
+DOMAIN,        2gis.ru
 DOMAIN-SUFFIX, api.2gis.ru
 DOMAIN-SUFFIX, tile0.maps.2gis.com
 DOMAIN-SUFFIX, tile1.maps.2gis.com
@@ -132,7 +132,7 @@ DOMAIN-SUFFIX, api.photo.2gis.com
 DOMAIN-SUFFIX, keys.api.2gis.com
 DOMAIN-SUFFIX, favorites.api.2gis.com
 DOMAIN-SUFFIX, styles.api.2gis.com
-DOMAIN, 2gis.com
+DOMAIN,        2gis.com
 DOMAIN-SUFFIX, filekeeper-vod.2gis.com
 DOMAIN-SUFFIX, jam.api.2gis.com
 DOMAIN-SUFFIX, catalog.api.2gis.com
@@ -144,13 +144,13 @@ DOMAIN-SUFFIX, s0.bss.2gis.com
 DOMAIN-SUFFIX, s1.bss.2gis.com
 
 # Т-Банк
-DOMAIN, tbank.ru
+DOMAIN,        tbank.ru
 DOMAIN-SUFFIX, id.tbank.ru
 DOMAIN-SUFFIX, le.tbank.ru
 DOMAIN-SUFFIX, cdn.tbank.ru
 DOMAIN-SUFFIX, hrc.tbank.ru
 DOMAIN-SUFFIX, cobrowsing.tbank.ru
-DOMAIN, tinkoff.ru
+DOMAIN,        tinkoff.ru
 DOMAIN-SUFFIX, cdn-tinkoff.ru
 DOMAIN-SUFFIX, imgproxy.cdn-tinkoff.ru
 
