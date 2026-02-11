@@ -31,9 +31,6 @@ DOMAIN-SUFFIX,  yango.com
 # Кинопоиск
 DOMAIN,         kinopoisk.ru
 
-# StarLine
-DOMAIN-SUFFIX,  starline.ru
-
 # OZON
 DOMAIN-SUFFIX,  ozon.ru
 DOMAIN-SUFFIX,  ozone.ru
