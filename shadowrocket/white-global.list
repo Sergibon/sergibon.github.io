@@ -9,3 +9,6 @@ DOMAIN-SUFFIX, esia.gosuslugi.ru
 DOMAIN-SUFFIX, voter.gosuslugi.ru
 DOMAIN-SUFFIX, gosweb.gosuslugi.ru
 DOMAIN-SUFFIX, contract.gosuslugi.ru
+
+# Налоговая
+DOMAIN,        nalog.ru, DIRECT
