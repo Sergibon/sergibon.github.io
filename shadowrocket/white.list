@@ -154,3 +154,16 @@ DOMAIN,        tinkoff.ru
 DOMAIN-SUFFIX, cdn-tinkoff.ru
 DOMAIN-SUFFIX, imgproxy.cdn-tinkoff.ru
 
+# Yandex Services
+DOMAIN,         ya.ru
+DOMAIN,         ya.net
+DOMAIN,         yandex.ru
+DOMAIN,         yandex.net
+DOMAIN-SUFFIX,  plus.yandex.net
+DOMAIN-SUFFIX,  music.yandex.net
+DOMAIN-SUFFIX,  passport.yandex.net
+DOMAIN-SUFFIX,  tanker.yandex.net
+DOMAIN-SUFFIX,  s3.yandex.net
+DOMAIN-SUFFIX,  yandex-bank.net
+DOMAIN-SUFFIX,  maps.yandex.net
+DOMAIN-SUFFIX,  maps.yango.com
