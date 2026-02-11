@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,  yandex.com
 DOMAIN-SUFFIX,  yango.com
 
 # Кинопоиск
-DOMAIN,         kinopoisk.ru
+DOMAIN-SUFFIX,  kinopoisk.ru
 
 # OZON
 DOMAIN-SUFFIX,  ozon.ru
