@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,  tbank.ru
 DOMAIN-SUFFIX,  tinkoff.ru
 DOMAIN-SUFFIX,  cdn-tinkoff.ru
 DOMAIN-SUFFIX,  t-bank-app.ru
+DOMAIN-SUFFIX,  tmiaf.ru
+DOMAIN-SUFFIX,  t-static.ru
+DOMAIN-SUFFIX,  tinkoffinsurance.ru
 
 # Альфа-Банк
 DOMAIN-SUFFIX,  alfabank.ru
