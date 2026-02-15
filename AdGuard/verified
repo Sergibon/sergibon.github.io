@@ -1,8 +1,7 @@
-! Version: 0.4
+! Version: 0.2
 ! Title: [SU] Verified
 ##footer
 ###countryRedirectMessage
 ###welkomeVideoMsg
 ozon.ru##div[class*="vue-portal-target"]
 ozon.ru##div[data-widget*="seasonWidget"]
-ozon.ru##div[data-widget*="navigationSlider"]
