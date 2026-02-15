@@ -6,3 +6,4 @@
 ozon.ru##div[class*="vue-portal-target"]
 ozon.ru##div[data-widget*="seasonWidget"]
 ozon.ru##div[data-widget*="navigationSlider"]
+ozon.ru##div[data-widget*="history"]
