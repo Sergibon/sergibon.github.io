@@ -10,6 +10,6 @@
 // @compatible   opera
 // @compatible   safari
 // @compatible   edge
-// @downloadURL  https://sergibon.github.io/AdGuard/scripts
-// @updateURL    https://sergibon.github.io/AdGuard/scripts
+// @downloadURL  https://sergibon.github.io/AdGuard/scripts.js
+// @updateURL    https://sergibon.github.io/AdGuard/scripts.js
 // ==/UserScript==
