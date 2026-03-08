@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,  alfabank.ru
 # DOMAIN-SUFFIX,  yandex.net
 # DOMAIN-SUFFIX,  yandex.com
 # DOMAIN-SUFFIX,  yastatic.net
+DOMAIN-SUFFIX,strm.yandex.net
+DOMAIN-SUFFIX,music.yandex.net
 
 # Кинопоиск
 # DOMAIN-SUFFIX,  kinopoisk.ru
