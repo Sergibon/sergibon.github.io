@@ -14,10 +14,12 @@
 # DOMAIN-SUFFIX,  yandex.net
 # DOMAIN-SUFFIX,  yandex.com
 # DOMAIN-SUFFIX,  yastatic.net
+DOMAIN-SUFFIX,push.yandex.ru
 DOMAIN-SUFFIX,strm.yandex.net
 DOMAIN-SUFFIX,music.yandex.net
 DOMAIN-SUFFIX,tanker.yandex.net
 DOMAIN-SUFFIX,tanker.s3.yandex.net
+DOMAIN-SUFFIX,taxi.yandex.net
 DOMAIN-SUFFIX,maps.yandex.net
 DOMAIN-SUFFIX,static-maps.yandex.ru
 
