@@ -17,8 +17,9 @@
 DOMAIN-SUFFIX,strm.yandex.net
 DOMAIN-SUFFIX,music.yandex.net
 DOMAIN-SUFFIX,tanker.yandex.net
-DOMAIN-SUFFIX,maps.yandex.net
 DOMAIN-SUFFIX,tanker.s3.yandex.net
+DOMAIN-SUFFIX,maps.yandex.net
+DOMAIN-SUFFIX,static-maps.yandex.ru
 
 # Кинопоиск
 # DOMAIN-SUFFIX,  kinopoisk.ru
