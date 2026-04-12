@@ -24,3 +24,6 @@ DOMAIN-SUFFIX,  tinkoffinsurance.ru
 
 # Альфа-Банк
 DOMAIN-SUFFIX,  alfabank.ru
+
+# Яндекс
+DOMAIN-SUFFIX,  pay.yandex.ru
