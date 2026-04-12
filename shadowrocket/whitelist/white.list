@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,static-maps.yandex.ru
 # DOMAIN-SUFFIX,  kinopoisk.ru
 
 # OZON
-# DOMAIN-SUFFIX,  ozon.ru
-# DOMAIN-SUFFIX,  ozone.ru
+DOMAIN-SUFFIX,  ozon.ru
+DOMAIN-SUFFIX,  ozone.ru
 
 # DOMAIN-SUFFIX,  gov.ru
 # DOMAIN-SUFFIX,  pochta.ru
