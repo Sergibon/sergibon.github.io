@@ -27,3 +27,15 @@ DOMAIN-SUFFIX,  alfabank.ru
 
 # Яндекс
 DOMAIN-SUFFIX,  pay.yandex.ru
+DOMAIN-SUFFIX,push.yandex.ru
+DOMAIN-SUFFIX,strm.yandex.net
+DOMAIN-SUFFIX,music.yandex.net
+DOMAIN-SUFFIX,tanker.yandex.net
+DOMAIN-SUFFIX,tanker.s3.yandex.net
+DOMAIN-SUFFIX,taxi.yandex.net
+DOMAIN-SUFFIX,maps.yandex.net
+DOMAIN-SUFFIX,static-maps.yandex.ru
+
+# OZON
+DOMAIN-SUFFIX,  ozon.ru
+DOMAIN-SUFFIX,  ozone.ru
