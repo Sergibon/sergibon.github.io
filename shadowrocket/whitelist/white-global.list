@@ -39,3 +39,6 @@ DOMAIN-SUFFIX,static-maps.yandex.ru
 # OZON
 DOMAIN-SUFFIX,  ozon.ru
 DOMAIN-SUFFIX,  ozone.ru
+
+# 2gis
+DOMAIN-SUFFIX,  eu.2gis.com
