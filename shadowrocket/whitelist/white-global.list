@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,  max.ru
 # Госуслуги
 DOMAIN-SUFFIX,  gu-st.ru
 DOMAIN-SUFFIX,  gosuslugi.ru
+DOMAIN-SUFFIX,  ssl-reg.iitrust.ru
 
 # Налоговая
 DOMAIN-SUFFIX,  nalog.ru
@@ -12,6 +13,7 @@ DOMAIN-SUFFIX,  nalog.ru
 # СберБанк
 DOMAIN-SUFFIX,  sber.ru
 DOMAIN-SUFFIX,  sberbank.ru
+DOMAIN-SUFFIX,  cbrpay.ru
 
 # Т-Банк
 DOMAIN-SUFFIX,  tbank.ru
@@ -24,6 +26,17 @@ DOMAIN-SUFFIX,  tinkoffinsurance.ru
 
 # Альфа-Банк
 DOMAIN-SUFFIX,  alfabank.ru
+
+# ВТБ
+DOMAIN-SUFFIX,  vtb.ru,
+DOMAIN-SUFFIX,  vtb.fp.f6.security
+
+# Газпром Банк
+DOMAIN-SUFFIX,  gpb.ru
+DOMAIN-SUFFIX,  gazprombank.ru
+
+# Ю-Мани
+DOMAIN-SUFFIX,  yoomoney.ru
 
 # Яндекс
 DOMAIN-SUFFIX,  pay.yandex.ru
