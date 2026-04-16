@@ -1,22 +1,22 @@
 # Avito
-# DOMAIN-SUFFIX,  avito.ru
-# DOMAIN-SUFFIX,  avito.st
+DOMAIN-SUFFIX,  avito.ru
+DOMAIN-SUFFIX,  avito.st
 
 # 2GIS
-# DOMAIN-SUFFIX,  2gis.ru
-# DOMAIN-SUFFIX,  2gis.com
+DOMAIN-SUFFIX,  2gis.ru
+DOMAIN-SUFFIX,  2gis.com
 
 # Yandex Services
-# DOMAIN-SUFFIX,  ya.ru
-# DOMAIN-SUFFIX,  ya.net
-# DOMAIN-SUFFIX,  ya.com
-# DOMAIN-SUFFIX,  yandex.ru
-# DOMAIN-SUFFIX,  yandex.net
-# DOMAIN-SUFFIX,  yandex.com
-# DOMAIN-SUFFIX,  yastatic.net
+DOMAIN-SUFFIX,  ya.ru
+DOMAIN-SUFFIX,  ya.net
+DOMAIN-SUFFIX,  ya.com
+DOMAIN-SUFFIX,  yandex.ru
+DOMAIN-SUFFIX,  yandex.net
+DOMAIN-SUFFIX,  yandex.com
+DOMAIN-SUFFIX,  yastatic.net
 
 # Кинопоиск
-# DOMAIN-SUFFIX,  kinopoisk.ru
+DOMAIN-SUFFIX,  kinopoisk.ru
 
 # DOMAIN-SUFFIX,  gov.ru
 # DOMAIN-SUFFIX,  pochta.ru
