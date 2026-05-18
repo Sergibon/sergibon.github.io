@@ -1,0 +1,10 @@
+# MAX Messenger
+DOMAIN-SUFFIX,  max.ru
+DOMAIN-SUFFIX,  oneme.ru
+
+# Госуслуги
+DOMAIN-SUFFIX,  gu-st.ru
+DOMAIN-SUFFIX,  gosuslugi.ru
+
+# Налоговая
+DOMAIN-SUFFIX,  nalog.ru
